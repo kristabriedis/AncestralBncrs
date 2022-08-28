@@ -1,0 +1,156 @@
+#NEXUS
+[written Tue Sep 08 16:11:24 MSK 2020 by Mesquite  version 3.61 (build 927) at Epistasis.local/127.0.0.1]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=53;
+	TAXLABELS
+		Sinocyclocheilus_grahami_XP_016146958 Sinocyclocheilus_anshuiensis_XP_016333115 Sinocyclocheilus_rhinocerous_XP_016371843 Scleropages_formosus_XM_018747275 Cyprinus_carpio_XP_018955736 Hippocampus_comes_XP_019712504 Paralichthys_olivaceus_XP_019934298 Labrus_bergylta_XP_020514534 Boleophthalmus_pectinirostris_XP_020790982 Oncorhynchus_mykiss_XP_021433692 Paramormyrops_kingsleyae_XP_023681726 Oncorhynchus_tshawytscha_XM_024408312 bncr_Danio_rerio_BNCR_DANRE Cynoglossus_semilaevis_XP_008310643 Esox_lucius_XP_010900260 Takifugu_rubripes_XP_011605859 Salmo_salar_XP_013981439 Lepisosteus_oculatus_BLO_SACA4 Oryzias_latipes_BncrA_AM150845 Amia_calva_AAC_SPACA4 Gnathonemus_petersi_B2GP_SACA4 Thymallus_thymallus_ITT_LOC100698933 Gadus_morhua_KGM_LOC100698933 Kryptolebias_marmoratus_BouncerA Oryzias_melastigma_BouncerA Oryzias_latipes_HNI_BouncerA Danio_aesculapii_BouncerA Danio_albolineatus_BouncerA Danio_nigrofasciatus_BouncerA Oryzias_latipes_HSOK_BouncerA Oryzias_javanicus_BouncerA Gambusia_holbrooki_BouncerA Gambusia_affinis_BouncerA Oryzias_luzonensis_BouncerA Oryzias_curvinotus_BouncerA Alosa_alosa_EAA_SPACA4 Plecoglossus_altivelis_ZPA_LOC101488075 newX_birchmanni_malinche_g324 newGambusia_affinis_PWA22396 newLarimichthys_crocea_XP_027128866 newCottoperca_gobio_XP_029290070 newScophthalmus_maximus_AWP08232 newPerca_flavescens_XP_028440886 newO_javanicus_2182786 newOreochromis_niloticus_XP_019217266 newBetta_splendens_XP_029008689 newOncorhynchus_kisutch_XP_020332067 newOncorhynchus_nerka_XP_029509053 newOsteoglossum_bicirrhosum_COB_SACA4 newAnguilla_anguilla_DAA_contig_000339 newDenticeps_clupeoides_XP_028841863 newlungfish_Proann_contig107559 node 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title Imported_trees;
+	ID 01746dd7a1ad10;
+	LINK Taxa = Taxa;
+	TRANSLATE
+[0] 		1 Sinocyclocheilus_grahami_XP_016146958,
+[1] 		2 Sinocyclocheilus_anshuiensis_XP_016333115,
+[2] 		3 Sinocyclocheilus_rhinocerous_XP_016371843,
+[3] 		4 Scleropages_formosus_XM_018747275,
+[4] 		5 Cyprinus_carpio_XP_018955736,
+[5] 		6 Hippocampus_comes_XP_019712504,
+[6] 		7 Paralichthys_olivaceus_XP_019934298,
+[7] 		8 Labrus_bergylta_XP_020514534,
+[8] 		9 Boleophthalmus_pectinirostris_XP_020790982,
+[9] 		10 Oncorhynchus_mykiss_XP_021433692,
+[10] 		11 Paramormyrops_kingsleyae_XP_023681726,
+[11] 		12 Oncorhynchus_tshawytscha_XM_024408312,
+[12] 		13 bncr_Danio_rerio_BNCR_DANRE,
+[13] 		14 Cynoglossus_semilaevis_XP_008310643,
+[14] 		15 Esox_lucius_XP_010900260,
+[15] 		16 Takifugu_rubripes_XP_011605859,
+[16] 		17 Salmo_salar_XP_013981439,
+[17] 		18 Lepisosteus_oculatus_BLO_SACA4,
+[18] 		19 Oryzias_latipes_BncrA_AM150845,
+[19] 		20 Amia_calva_AAC_SPACA4,
+[20] 		21 Gnathonemus_petersi_B2GP_SACA4,
+[21] 		22 Thymallus_thymallus_ITT_LOC100698933,
+[22] 		23 Gadus_morhua_KGM_LOC100698933,
+[23] 		24 Kryptolebias_marmoratus_BouncerA,
+[24] 		25 Oryzias_melastigma_BouncerA,
+[25] 		26 Oryzias_latipes_HNI_BouncerA,
+[26] 		27 Danio_aesculapii_BouncerA,
+[27] 		28 Danio_albolineatus_BouncerA,
+[28] 		29 Danio_nigrofasciatus_BouncerA,
+[29] 		30 Oryzias_latipes_HSOK_BouncerA,
+[30] 		31 Oryzias_javanicus_BouncerA,
+[31] 		32 Gambusia_holbrooki_BouncerA,
+[32] 		33 Gambusia_affinis_BouncerA,
+[33] 		34 Oryzias_luzonensis_BouncerA,
+[34] 		35 Oryzias_curvinotus_BouncerA,
+[35] 		36 Alosa_alosa_EAA_SPACA4,
+[36] 		37 Plecoglossus_altivelis_ZPA_LOC101488075,
+[37] 		38 newX_birchmanni_malinche_g324,
+[38] 		39 newGambusia_affinis_PWA22396,
+[39] 		40 newLarimichthys_crocea_XP_027128866,
+[40] 		41 newCottoperca_gobio_XP_029290070,
+[41] 		42 newScophthalmus_maximus_AWP08232,
+[42] 		43 newPerca_flavescens_XP_028440886,
+[43] 		44 newO_javanicus_2182786,
+[44] 		45 newOreochromis_niloticus_XP_019217266,
+[45] 		46 newBetta_splendens_XP_029008689,
+[46] 		47 newOncorhynchus_kisutch_XP_020332067,
+[47] 		48 newOncorhynchus_nerka_XP_029509053,
+[48] 		49 newOsteoglossum_bicirrhosum_COB_SACA4,
+[49] 		50 newAnguilla_anguilla_DAA_contig_000339,
+[50] 		51 newDenticeps_clupeoides_XP_028841863,
+[51] 		52 newlungfish_Proann_contig107559,
+[52] 		53 node;
+	TREE Imported_tree_53 = 53;
+	TREE Imported_tree_54 = 53;
+	TREE Imported_tree_55 = 53;
+	TREE Imported_tree_56 = 53;
+	TREE Imported_tree_57 = 53;
+	TREE Imported_tree_58 = 53;
+	TREE Imported_tree_59 = 53;
+	TREE Imported_tree_60 = 53;
+	TREE Imported_tree_61 = 53;
+	TREE Imported_tree_62 = 53;
+	TREE Imported_tree_63 = 53;
+	TREE Imported_tree_64 = 53;
+	TREE Imported_tree_65 = 53;
+	TREE Imported_tree_66 = 53;
+	TREE Imported_tree_67 = 53;
+	TREE Imported_tree_68 = 53;
+	TREE Imported_tree_69 = 53;
+	TREE Imported_tree_70 = 53;
+	TREE Imported_tree_71 = 53;
+	TREE Imported_tree_72 = 53;
+	TREE Imported_tree_73 = 53;
+	TREE Imported_tree_74 = 53;
+	TREE Imported_tree_75 = 53;
+	TREE Imported_tree_76 = 53;
+	TREE Imported_tree_77 = 53;
+	TREE Imported_tree_78 = 53;
+	TREE Imported_tree_79 = 53;
+	TREE Imported_tree_80 = 53;
+	TREE Imported_tree_81 = 53;
+	TREE Imported_tree_82 = 53;
+	TREE Imported_tree_83 = 53;
+	TREE Imported_tree_84 = 53;
+	TREE Imported_tree_85 = 53;
+	TREE Imported_tree_86 = 53;
+	TREE Imported_tree_87 = 53;
+	TREE Imported_tree_88 = 53;
+	TREE Imported_tree_89 = 53;
+	TREE Imported_tree_90 = 53;
+	TREE Imported_tree_91 = 53;
+	TREE Imported_tree_92 = 53;
+	TREE Imported_tree_93 = 53;
+	TREE Imported_tree_94 = 53;
+	TREE Imported_tree_95 = 53;
+	TREE Imported_tree_96 = 53;
+	TREE Imported_tree_97 = 53;
+	TREE Imported_tree_98 = 53;
+	TREE Imported_tree_99 = 53;
+	TREE Imported_tree_100 = 53;
+	TREE Imported_tree_101 = 53;
+	TREE Imported_tree_102 = 53;
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1599570685021;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 5400912825492517089;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState true false 100;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 700 464;
+			setLocation 8 8;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		endTell;
+end;
+
+

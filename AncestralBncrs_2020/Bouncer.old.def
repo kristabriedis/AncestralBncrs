@@ -1,0 +1,39 @@
+>Sinocyclocheilus_grahami_XP_016146958.1/32-111 ref|XP_016146958.1| PREDICTED: sperm acrosome membrane-associated protein 4-like [Sinocyclocheilus grahami]
+>Sinocyclocheilus_anshuiensis_XP_016333115.1_1-432_1/32-111 lcl|XM_016477629.1_cds_XP_016333115.1_1 [gene=LOC107681353] [db_xref=GeneID:107681353] [protein=sperm acrosome membrane-associated protein 4-like isoform X1]   [location=20..451] [gbkey=CDS] gi|10
+>Sinocyclocheilus_anshuiensis_XP_016333116.1_lcl|XM_016477630.1_cds_XP_016333116.1_1_geneLOC107681353_db_xrefGeneID:107681353_proteinsperm_acrosome_membrane-associated_protein_4-like_isoform_X2___locas
+>Sinocyclocheilus_rhinocerous_XP_016371843.1/32-111 ref|XP_016371843.1| PREDICTED: sperm acrosome membrane-associated protein 4-like [Sinocyclocheilus rhinocerous]
+>Scleropages_formosus_XM_018747275.1_1/29-108 [2 - 412] PREDICTED: Scleropages formosus prostate and testis expressed protein 3-like (LOC108931508), mRNA
+>Cyprinus_carpio_XP_018955736.1/32-111 ref|XP_018955736.1| PREDICTED: sperm acrosome membrane-associated protein 4-like [Cyprinus carpio]
+>Hippocampus_comes_XP_019712504.1/25-104 ref|XP_019712504.1| PREDICTED: sperm acrosome membrane-associated protein 4-like [Hippocampus comes]
+>Paralichthys_olivaceus_XP_019934298.1_1-417_1/33-112 lcl|XM_020078739.1_cds_XP_019934298.1_1 [gene=LOC109624209] [db_xref=GeneID:109624209] [protein=sperm acrosome membrane-associated protein 4-like isoform X1]   [location=81..497] [gbkey=CDS] gi|11433622
+>Labrus_bergylta_XP_020514534.1/27-106 ref|XP_020514534.1| uncharacterized protein LOC110003285 isoform X1 [Labrus bergylta]
+>Boleophthalmus_pectinirostris_XP_020790982.1/24-105 ref|XP_020790982.1| sperm acrosome membrane-associated protein 4-like [Boleophthalmus pectinirostris]
+>Oncorhynchus_mykiss_XP_021433692.1/33-112 ref|XP_021433692.1| sperm acrosome membrane-associated protein 4-like isoform X1 [Oncorhynchus mykiss]
+>Paramormyrops_kingsleyae_XP_023681726.1/30-109 ref|XP_023681726.1| sperm acrosome membrane-associated protein 4-like [Paramormyrops kingsleyae]
+>Oncorhynchus_tshawytscha_XM_024408312.1_1/92-171 [75 - 659] PREDICTED: Oncorhynchus tshawytscha sperm acrosome membrane-associated protein 4-like (LOC112239936), transcript variant X1, mRNA
+>bncr_Danio_rerio_BNCR_DANRE/19-98 sp|P0DPQ9|BNCR_DANRE Protein Bouncer OS=Danio rerio OX=7955 GN=bncr PE=1 SV=1
+>Cynoglossus_semilaevis_XP_008310643.1/26-105 ref|XP_008310643.1| PREDICTED: uncharacterized protein LOC103380434 isoform X4 [Cynoglossus semilaevis]
+>Esox_lucius_XP_010900260.1/26-105 ref|XP_010900260.1| PREDICTED: sperm acrosome membrane-associated protein 4 [Esox lucius]
+>Takifugu_rubripes_XP_011605859.1/27-106 ref|XP_011605859.1| PREDICTED: uncharacterized protein LOC105416949 isoform X2 [Takifugu rubripes]
+>Salmo_salar_XP_013981439.1/27-106 ref|XP_013981439.1| PREDICTED: sperm acrosome membrane-associated protein 4-like [Salmo salar]
+>Lepisosteus_oculatus_BLO_SACA4.2.2_1566-1868_2/12-91 [303 - 1] (REVERSE SENSE) length:2041
+>Oryzias_latipes_BncrA_AM150845.1_1-393_1/27-106 lcl|AM150845.1_cds_AM150845.1 Contig1  conceptual translation using EST contig est|AM150845.1| [Oryzias latipes]
+>Amia_calva_AAC_SPACA4.1.1_3270-3647_1/24-103 [378 - 10] (REVERSE SENSE) length:3884
+>Gnathonemus_petersi_B2GP_SACA4.1.3_1175-1519_1/9-88 [294 - 1] (REVERSE SENSE) length:1586
+>Alosa_alosa_EAA_SPACA4.1.2_190-522_2_1_-_333_length:854
+>Thymallus_thymallus_ITT_LOC100698933.1.1_344-760_1/27-106 [19 - 414] length:1007
+>Gadus_morhua_KGM_LOC100698933.2.2_814-1242_2/34-115 [1 - 429] length:1496
+>Plecoglossus_altivelis_ZPA_LOC101488075.1.1_6346-6744_3_1_-_399_length:7988
+>Kryptolebias_marmoratus_BouncerA_1-267_1/1-82 fragment, ambigius characters in original cDNA [1 - 267]
+>Oryzias_melastigma_BouncerA_1-378_1/24-103
+>Oryzias_latipes_HNI_BouncerA_1-384_1/24-103
+>Danio_aesculapii_BouncerA_1-378_1/19-98
+>Danio_albolineatus_BouncerA_1-315_1/10-89 fragment, ambigius characters in original cDNA [ [3 - 317]
+>Danio_nigrofasciatus_BouncerA_1-369_1/16-95
+>Oryzias_latipes_HSOK_BouncerA_1-384_1/24-103
+>Oryzias_javanicus_BouncerA_1-387_1/27-106
+>Gambusia_holbrooki_BouncerA_1-276_1/1-80 flattened_line_2051:57139-57415_
+>Gambusia_affinis_BouncerA_1-276_1/1-80 flattened_line_5028:31344-31620_BouncerA
+>Oryzias_luzonensis_BouncerA_1-378_1/22-101 Oryzias_luzonensis_flattened_line_2255:56361-56739_BouncerA
+>Oryzias_curvinotus_BouncerA_3_1-378_1/23-102 [1 - 378] Oryzias_curvinotus_flattened_line_2227:50808-51188_revcomp_BouncerA
+

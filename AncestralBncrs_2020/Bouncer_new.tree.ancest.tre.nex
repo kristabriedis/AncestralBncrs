@@ -1,0 +1,103 @@
+#NEXUS
+[written Tue Sep 08 16:15:08 MSK 2020 by Mesquite  version 3.61 (build 927) at Epistasis.local/127.0.0.1]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=49;
+	TAXLABELS
+		18_Lepisosteus_oculatus_BLO_SACA4 20_Amia_calva_AAC_SPACA4 48_newAnguilla_anguilla_DAA_contig_000339 11_Paramormyrops_kingsleyae_XP_023681726 21_Gnathonemus_petersi_B2GP_SACA4 4_Scleropages_formosus_XM_018747275 47_newOsteoglossum_bicirrhosum_COB_SACA4 34_Alosa_alosa_EAA_SPACA4 49_newDenticeps_clupeoides_XP_028841863 35_Plecoglossus_altivelis_ZPA_LOC101488075 1_Sinocyclocheilus_grahami_XP_016146958 2_Sinocyclocheilus_anshuiensis_XP_016333115 3_Sinocyclocheilus_rhinocerous_XP_016371843 5_Cyprinus_carpio_XP_018955736 13_bncr_Danio_rerio_BNCR_DANRE 27_Danio_aesculapii_BouncerA 28_Danio_albolineatus_BouncerA 29_Danio_nigrofasciatus_BouncerA 15_Esox_lucius_XP_010900260 22_Thymallus_thymallus_ITT_LOC100698933 17_Salmo_salar_XP_013981439 46_newOncorhynchus_nerka_XP_029509053 10_Oncorhynchus_mykiss_XP_021433692 12_Oncorhynchus_tshawytscha_XM_024408312 45_newOncorhynchus_kisutch_XP_020332067 23_Gadus_morhua_KGM_LOC100698933 6_Hippocampus_comes_XP_019712504 9_Boleophthalmus_pectinirostris_XP_020790982 16_Takifugu_rubripes_XP_011605859 38_newLarimichthys_crocea_XP_027128866 8_Labrus_bergylta_XP_020514534 41_newPerca_flavescens_XP_028440886 39_newCottoperca_gobio_XP_029290070 7_Paralichthys_olivaceus_XP_019934298 40_newScophthalmus_maximus_AWP08232 14_Cynoglossus_semilaevis_XP_008310643 44_newBetta_splendens_XP_029008689 43_newOreochromis_niloticus_XP_019217266 24_Kryptolebias_marmoratus_BouncerA 36_newX_birchmanni_malinche_g324 37_newGambusia_affinis_PWA22396 25_Oryzias_melastigma_BouncerA 31_Oryzias_javanicus_BouncerA 42_newO_javanicus_2182786 32_Oryzias_luzonensis_BouncerA 33_Oryzias_curvinotus_BouncerA 19_Oryzias_latipes_BncrA_AM150845 26_Oryzias_latipes_HNI_BouncerA 30_Oryzias_latipes_HSOK_BouncerA 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title Imported_trees;
+	ID 01746ddb04ca13;
+	LINK Taxa = Taxa;
+	TRANSLATE
+[0] 		1 18_Lepisosteus_oculatus_BLO_SACA4,
+[1] 		2 20_Amia_calva_AAC_SPACA4,
+[2] 		3 48_newAnguilla_anguilla_DAA_contig_000339,
+[3] 		4 11_Paramormyrops_kingsleyae_XP_023681726,
+[4] 		5 21_Gnathonemus_petersi_B2GP_SACA4,
+[5] 		6 4_Scleropages_formosus_XM_018747275,
+[6] 		7 47_newOsteoglossum_bicirrhosum_COB_SACA4,
+[7] 		8 34_Alosa_alosa_EAA_SPACA4,
+[8] 		9 49_newDenticeps_clupeoides_XP_028841863,
+[9] 		10 35_Plecoglossus_altivelis_ZPA_LOC101488075,
+[10] 		11 1_Sinocyclocheilus_grahami_XP_016146958,
+[11] 		12 2_Sinocyclocheilus_anshuiensis_XP_016333115,
+[12] 		13 3_Sinocyclocheilus_rhinocerous_XP_016371843,
+[13] 		14 5_Cyprinus_carpio_XP_018955736,
+[14] 		15 13_bncr_Danio_rerio_BNCR_DANRE,
+[15] 		16 27_Danio_aesculapii_BouncerA,
+[16] 		17 28_Danio_albolineatus_BouncerA,
+[17] 		18 29_Danio_nigrofasciatus_BouncerA,
+[18] 		19 15_Esox_lucius_XP_010900260,
+[19] 		20 22_Thymallus_thymallus_ITT_LOC100698933,
+[20] 		21 17_Salmo_salar_XP_013981439,
+[21] 		22 46_newOncorhynchus_nerka_XP_029509053,
+[22] 		23 10_Oncorhynchus_mykiss_XP_021433692,
+[23] 		24 12_Oncorhynchus_tshawytscha_XM_024408312,
+[24] 		25 45_newOncorhynchus_kisutch_XP_020332067,
+[25] 		26 23_Gadus_morhua_KGM_LOC100698933,
+[26] 		27 6_Hippocampus_comes_XP_019712504,
+[27] 		28 9_Boleophthalmus_pectinirostris_XP_020790982,
+[28] 		29 16_Takifugu_rubripes_XP_011605859,
+[29] 		30 38_newLarimichthys_crocea_XP_027128866,
+[30] 		31 8_Labrus_bergylta_XP_020514534,
+[31] 		32 41_newPerca_flavescens_XP_028440886,
+[32] 		33 39_newCottoperca_gobio_XP_029290070,
+[33] 		34 7_Paralichthys_olivaceus_XP_019934298,
+[34] 		35 40_newScophthalmus_maximus_AWP08232,
+[35] 		36 14_Cynoglossus_semilaevis_XP_008310643,
+[36] 		37 44_newBetta_splendens_XP_029008689,
+[37] 		38 43_newOreochromis_niloticus_XP_019217266,
+[38] 		39 24_Kryptolebias_marmoratus_BouncerA,
+[39] 		40 36_newX_birchmanni_malinche_g324,
+[40] 		41 37_newGambusia_affinis_PWA22396,
+[41] 		42 25_Oryzias_melastigma_BouncerA,
+[42] 		43 31_Oryzias_javanicus_BouncerA,
+[43] 		44 42_newO_javanicus_2182786,
+[44] 		45 32_Oryzias_luzonensis_BouncerA,
+[45] 		46 33_Oryzias_curvinotus_BouncerA,
+[46] 		47 19_Oryzias_latipes_BncrA_AM150845,
+[47] 		48 26_Oryzias_latipes_HNI_BouncerA,
+[48] 		49 30_Oryzias_latipes_HSOK_BouncerA;
+	TREE Imported_tree_1 = ((1,2)51,(3,(((4,5)55,((6,7)57)56)54,((((8,9)61,10)60,((11,(12,(13,14)65)64)63,(15,(16,(17,18)68)67)66)62)59,((19,(20,(21,(22,(23,24,25)74)73)72)71)70,(26,(27,(28,((((29,30)81,31)80,(32,33)82)79,((((34,35)86,36)85,37)84,(38,((39,(40,41)90)89,((42,(43,44)93)92,((45,46)95,(47,48,49)96)94)91)88)87)83)78)77)76)75)69)58)53)52)50;
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1599570908156;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 6109396894398894686;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState true false 100;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 700 464;
+			setLocation 8 8;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		endTell;
+end;
+
+
