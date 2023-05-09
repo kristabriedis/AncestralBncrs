@@ -1,7 +1,7 @@
 # AncestralBncrs
 Bouncer ancestral reconstructions for manuscript
 
-"Divergent molecular signatures in fish Bouncer proteins determine cross-fertilization boundaries"
+"Divergent molecular signatures in fish Bouncer proteins define cross-fertilization boundaries"
 
 Abstract:
 
